@@ -1,0 +1,14 @@
+import { configureStore } from "@reduxjs/toolkit";
+import authReducer from "./authSlice.js";
+import propertiesReducer from "./propertiesSlice.js";
+import bookingsReducer from "./bookingsSlice.js";
+import uiReducer from "./uiSlice.js";
+
+export const store = configureStore({
+  reducer: {
+    auth: authReducer,
+    properties: propertiesReducer,
+    bookings: bookingsReducer,
+    ui: uiReducer,
+  },
+});
