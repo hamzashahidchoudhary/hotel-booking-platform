@@ -53,7 +53,13 @@ Wayfare is a complete Airbnb-style booking platform supporting three user roles 
 
 ## 📸 Screenshots
 
-> _Add screenshots or a GIF walkthrough here — home page, search with map, property detail, booking checkout, host dashboard, admin dashboard._
+<img width="1366" height="605" alt="image" src="https://github.com/user-attachments/assets/3bb4182b-131c-45f4-8102-5e63903e57a3" />
+<img width="1366" height="605" alt="image" src="https://github.com/user-attachments/assets/25dda757-68f8-498e-b626-285368c0eedf" />
+<img width="1366" height="607" alt="image" src="https://github.com/user-attachments/assets/6900c20b-665c-4f71-81b7-158a47226ea5" />
+<img width="1366" height="606" alt="image" src="https://github.com/user-attachments/assets/26f539aa-e0bb-4705-946f-febedab4a7cb" />
+<img width="1366" height="606" alt="image" src="https://github.com/user-attachments/assets/d63500fa-3afe-48bd-a021-5415fbc1523a" />
+<img width="1366" height="605" alt="image" src="https://github.com/user-attachments/assets/b2667dcd-f18c-47f8-b567-4e89e619a5ca" />
+
 
 ## 🧰 Tech Stack
 
